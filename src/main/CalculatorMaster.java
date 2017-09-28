@@ -14,4 +14,7 @@ public class CalculatorMaster {
 		return a - b;
 	}
 
+	public static int sub3(int a, int b) {
+		return a - b;
+	}
 }
